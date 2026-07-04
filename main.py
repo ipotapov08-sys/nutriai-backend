@@ -667,7 +667,11 @@ async def root():
             "/register", "/login", "/metrics/save",
             "/foods/search", "/diary/add", "/diary/today",
             "/nutri/state", "/nutri/achievements",
-            "/quest/complete", "/water/add"
+            "/quest/complete", "/water/add",
+            "/diet-types", "/meals", "/diet-tables",
+            "/plan/generate", "/plan/weekly", "/diary/delete",
+            "/plan/adaptive", "/discipline",
+            "/progress/daily-report", "/progress/weekly-report"
         ]
     }
 
